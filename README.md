@@ -1,4 +1,7 @@
 # mlearn
 
-Several Python notebooks that I used, generated, and modified during my schooling are included in this repository.
- It demonstrates our depth of understanding of the subjects, the kinds of exercises we engaged in, and the seriousness of the information we were learning throughout our schooling.
+This repository includes several notebooks I made, used, and modified while I was a student in the areas of machine learning and fundamental language learning in Python.   It demonstrates our comprehension of the subject matter, the kinds of tasks we finished, and the significance of the teachings we were taught in school.
+
+---
+originalmartin97@gmail.com
++.+
